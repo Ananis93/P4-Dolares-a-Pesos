@@ -1,0 +1,7 @@
+<?php
+$pesos= 25;
+$tasa= 12.30;
+$dolares= $pesos * $tasa;
+
+echo $pesos. + "Pesos son" + .$dolares. + "Dolares, la Tasa de interes siendo" + .$tasa;
+?>
